@@ -1,0 +1,38 @@
+:root {
+
+  /* Colors */
+  --bg: #090909;
+  --surface: #111111;
+  --surface-light: #181818;
+
+  --text: #ffffff;
+  --text-light: #d7d7d7;
+  --text-muted: #8d8d8d;
+
+  --primary: #ff4f81;
+  --secondary: #ff9ec8;
+  --accent: #ffd166;
+
+  --border: rgba(255,255,255,.08);
+
+  --gradient:
+      linear-gradient(
+          135deg,
+          #ff4f81,
+          #ff7ca8,
+          #ffd166
+      );
+
+  --glass:
+      rgba(255,255,255,.05);
+
+  --shadow:
+      0 20px 60px rgba(0,0,0,.35);
+
+  --radius:20px;
+
+  --container:1200px;
+
+  --transition:.35s ease;
+
+}
